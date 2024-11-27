@@ -1,0 +1,21 @@
+Observable Trends Found in the Data
+
+Observation 1 - Student Population, School Types & Performance Rankings
+	The Top 5 schools are all Charter schools with less than 2,500 students while the Bottom 5 schools are all district with student populations ranging from 2,917 to 4,761. Though the spend per-student is similar for the Top5 and Bottom5, the Student Population is a glaring difference leading one to conclude that a smaller school population will result in higher test scores. 
+    
+	An interesting extension for the data to explore this further would be to compare average class sizes at each school to see if thethe data proves a correlation between student to teacher ratios and test scores.
+
+
+Observation 2 - Reading & Math Scores in Bottom5 School Rankings
+	The data suggests that while the average math scores are fairly high, the percentage of students passing math is lower. This indicates a potential gap between average performance and the number of students meeting the passing criteria.
+
+The reading scores and passing percentages are consistently higher than math, indicating stronger performance in reading across the schools. The overall passing percentages are the lowest among the metrics, highlighting a challenge in getting a significant portion of students to pass both math and reading.
+
+These insights suggest that while students are performing reasonably well on average, there might be specific barriers preventing more students from achieving passing grades, especially in math. 
+	
+
+	
+
+	
+
+	
